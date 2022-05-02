@@ -1,3 +1,3 @@
 # BulleyesGame
 
-![alt text](https://imgur.com/h4PZjRF)
+![alt text](https://imgur.com/h4PZjRF.jpg)
